@@ -1,9 +1,7 @@
-# Carta-de-Democratiza-o-dos-Scripts
 
-====================================================================
 DEMOCRATIZAÇÃO DOS SCRIPTS COMO EXPRESSÃO TÉCNICA
 MANIFESTO CONCEITUAL, TÉCNICO E JURÍDICO
-====================================================================
+
 
 Autor: Proposta conceitual
 Contexto: Sistemas operacionais, IA, engenharia de software e direito
@@ -217,6 +215,4 @@ O código é:
 Democratizar scripts é democratizar a capacidade de construir,
 compreender e evoluir sistemas — e não apropriar sentimentos.
 
-====================================================================
-FIM DO DOCUMENTO
-====================================================================
+
